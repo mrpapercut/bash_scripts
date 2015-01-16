@@ -1,4 +1,5 @@
 # Go to the root folder of current application-subfolder
+
 function root {
 	PWD=$(pwd);
 

@@ -1,4 +1,5 @@
 # Go to this application's static folder
+
 function static {
 	PWD=$(pwd);
 

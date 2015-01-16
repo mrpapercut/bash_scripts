@@ -1,4 +1,5 @@
 # Reload the functions in this file
+
 function reload
 {
 	echo -n "Reloading bash_profile..."
